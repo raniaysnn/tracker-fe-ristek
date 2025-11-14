@@ -25,3 +25,7 @@ Direktori utama yang berisi semua kode sumber aplikasi React.
 | **`package.json`** | Daftar semua pustaka (*library*) dan *framework* yang digunakan di proyek ini. |
 
 ---
+
+```bash
+    git add README.md
+    ```
