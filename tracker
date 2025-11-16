@@ -1,17 +1,13 @@
-npm create vite@latest 
+git clone https://github.com/raniaysnn/tracker-fe-ristek
 
+cd tracker-fe-ristek
 
+npm create vite@latest
 
 npm install
 
-
-
-git init
-
-
-
-git add 
-
-
+git add
 
 git commit -m
+
+git push
